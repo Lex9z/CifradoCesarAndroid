@@ -4,7 +4,7 @@
     <string name="app_name">CifradoCesar</string>
     <string name="action_settings">Settings</string>
 
-    <string name="button_accept">Aceptar</string>
+    <string name="button_accept">Cifrar</string>
     <string name="encrypted_text">Texto Cifrado</string>
     <string name="key">Clave</string>
     <string name="plain_text">Texto Plano</string>
