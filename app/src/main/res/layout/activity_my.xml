@@ -75,8 +75,7 @@
         android:id="@+id/button_accept"
         android:layout_below="@+id/edit_encrypted"
         android:layout_centerHorizontal="true"
-        android:textStyle="bold"
-        android:background="@android:drawable/btn_default" />
+        android:textStyle="bold" />
 
 
 </RelativeLayout>
